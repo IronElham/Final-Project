@@ -48,7 +48,7 @@ H5: Original Price and skin type: Reject the null hypothesis, At least one skin 
 
 1.	Multicollinear between variables total_deal_amount and price_usd_y and value_price_usd 0.99, price_use_y and sales_price_usd , value_price_usd and sales_price_usd, total_feedback_count and total_pos_feedback_count, total__pos_feedback_count, reviews and love_count 0.82, total_neg_feeback_count and rating_x, sephora exclusive and price_usd_x, sephora exclusive and price_usd_y, sephora exclusive and value_price_usd, sephora exclusive and sales_price_usd, loves_count and price_usd_y, loves_count and sales_price_usd, loves_count and online_only , loves_count and value_price_usd, rating_y and helpfulness
 
-2.	Machine learning techniques, to train feature `skin_tone`, `rating_y` ,`total_pos_feedback_count`, `loves_count`, `hair_color`, `skin_type`, `eye_color`, `reviews`, `rating_x`, `sales_price_usd`,`brand_name_x`, `product_name`,`secondry_category`, `variation_type`, `variation_desc`,`online_only`,`out_of_stock`, `new`, `limited_edition to predict is_recommended (target variable). 
+2.	Machine learning techniques, to train feature `skin_tone`, `rating_y` ,`total_pos_feedback_count`, `loves_count`, `hair_color`, `skin_type`, `eye_color`, `reviews`, `rating_x`, `sales_price_usd`,`brand_name_x`, `product_name`,`secondry_category`, `variation_type`, `variation_desc`,`online_only`,`out_of_stock`, `new`, `limited_edition` to predict is_recommended (target variable). 
 
 3.	Across all different ML models, as the is_recommened dirstribution is imbalancd, techniques of undersampling with TomeLinks and Oversampling with SMOTE  has been used. The has resolved the issue of imbalanced data and improved models’ scores. 
 
