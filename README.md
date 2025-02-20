@@ -57,3 +57,6 @@ H5: Original Price and skin type: Reject the null hypothesis, At least one skin 
 5. Sentiment analysis of Vader and RoBERTa as Natural Language Processing techniques has been conducted to extract the emotions and the sentiment scores from the review of the consumers. Overall the review_text revealed positive sentiment score for VADER and Joy emotional mood or customer satisfaction from RoBERTa. 
 
 *For further information please refer to the Jupyther notebooks, presentation and Tableau on this repo.
+
+Below is the Tableau URL
+https://public.tableau.com/views/Final_project_IronHack/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
